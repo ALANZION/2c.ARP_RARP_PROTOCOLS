@@ -19,8 +19,9 @@ P
 ## PROGRAM - ARP
 ### CLIENT
 ```
-NAME : ALAN ZION H
-REG NO: 212223240004
+## NAME : ALAN ZION H
+## REG NO: 212223240004
+
 import socket 
 s=socket.socket() 
 s.bind(('localhost',8000)) 
@@ -51,6 +52,9 @@ while True:
 ## PROGRAM - RARP
 ### CLIENT
 ```
+NAME:ALAN ZION H
+REG NO:212223240004
+
 import socket
 s=socket.socket()
 s.bind(('localhost',9000))
@@ -75,6 +79,8 @@ while True:
  print("Logical Address",s.recv(1024).decode())
 ```
 ## OUPUT -RARP
+![image](https://github.com/user-attachments/assets/08df394c-4731-4d68-a1c1-aeb111b72687)
+
 
 
 ## RESULT

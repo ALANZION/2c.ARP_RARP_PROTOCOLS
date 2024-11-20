@@ -1,4 +1,6 @@
 # 2c.SIMULATING ARP /RARP PROTOCOLS
+## NAME: ALAN ZION H
+## REG NO:21223240004
 ## AIM
 To write a python program for simulating ARP protocols using TCP.
 ## ALGORITHM:
